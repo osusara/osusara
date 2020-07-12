@@ -2,8 +2,6 @@
 
 I'm Osusara Kammalawatta. Currently a Software Engineer Intern at 99X Technology. An undergraduate in Information Systems at Sabaragamuwa Universty of Sri Lanka.
 
-<img align='center' src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif">
-
 💻 Some of my things
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/osusara)
