@@ -16,7 +16,7 @@ I'm Osusara Kammalawatta. Currently a Software Engineer Intern at 99X Technology
 
 🖥 I’m a technical writer. Read my articles on
 
-<a href="https://medium.com/@osusarakammalawatta" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium" alt="Medium"></a>
+<a href="https://osusarak.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium" alt="Medium"></a>
 
 📹 I'm a graphics/motion graphics designer and a content creator. See my work on
 
