@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Osusara Kammalawatta. Currently a Software Engineer Intern at 99X Technology. An undergraduate in Information Systems at Sabaragamuwa Universty of Sri Lanka.
+I'm Osusara Kammalawatta. An undergraduate in Information Systems at Sabaragamuwa Universty of Sri Lanka.
 
 💻 Some of my things
 
