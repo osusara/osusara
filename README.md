@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Osusara Kammalawatta. An undergraduate in Information Systems at Sabaragamuwa Universty of Sri Lanka.
+I'm Osusara Kammalawatta. A software engineer with a passion for building scalable and efficient systems..
 
 💻 Some of my things
 
